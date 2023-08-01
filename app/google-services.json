@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152601800310",
+    "project_id": "emergency-application-system",
+    "storage_bucket": "emergency-application-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152601800310:android:c88971cda53b364b4eb957",
+        "android_client_info": {
+          "package_name": "com.example.medicalapplicationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152601800310-fkcjspv1ssr98h0fp3iq69tfnjkklgpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANad2ZJMFc6-nyi_ewuLeXIVF2-pNms_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152601800310-fkcjspv1ssr98h0fp3iq69tfnjkklgpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
