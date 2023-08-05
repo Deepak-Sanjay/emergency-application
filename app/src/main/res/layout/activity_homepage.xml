@@ -48,7 +48,7 @@
         android:layout_marginLeft="8dp"
         android:layout_marginTop="10dp"
         android:layout_marginRight="8dp"
-        android:onClick="openVendors"
+        android:onClick="openfirstaid"
         app:cardCornerRadius="30dp">
 
         <ImageView
