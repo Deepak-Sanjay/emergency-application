@@ -5,13 +5,15 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".firstaid"
-    android:background="@drawable/firestaid">
+    android:background="@drawable/firestaid"
+    >
 
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:overScrollMode="never"
-        android:scrollbars="vertical">
+        android:scrollbars="vertical"
+        >
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -24,8 +26,9 @@
                 android:layout_height="wrap_content"
                 android:layout_centerHorizontal="true"
                 android:layout_gravity="center"
+                android:textColor="@color/black"
                 android:text="FIRST AID"
-                android:textSize="45dp"
+                android:textSize="50dp"
                 android:textStyle="bold" />
 
             <androidx.cardview.widget.CardView
