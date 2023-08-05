@@ -25,7 +25,15 @@
         android:layout_marginLeft="8dp"
         android:layout_marginTop="16dp"
         android:layout_marginRight="8dp"
+        app:cardCornerRadius="30dp"
         >
+
+        <ImageView
+            android:id="@+id/imgcrp"
+            android:layout_width="wrap_content"
+            android:layout_height="175dp"
+            android:background="@drawable/cpr"
+            />
 
     </androidx.cardview.widget.CardView>
 
@@ -36,7 +44,15 @@
         android:layout_marginLeft="8dp"
         android:layout_marginTop="16dp"
         android:layout_marginRight="8dp"
+        app:cardCornerRadius="30dp"
         >
+
+        <ImageView
+            android:id="@+id/imgelecshock"
+            android:layout_width="wrap_content"
+            android:layout_height="175dp"
+            android:background="@drawable/elecshock"
+            />
 
     </androidx.cardview.widget.CardView>
 
@@ -47,7 +63,15 @@
         android:layout_marginLeft="8dp"
         android:layout_marginTop="16dp"
         android:layout_marginRight="8dp"
+        app:cardCornerRadius="30dp"
         >
+
+        <ImageView
+            android:id="@+id/imgsprain"
+            android:layout_width="wrap_content"
+            android:layout_height="175dp"
+            android:background="@drawable/sprain"
+            />
 
     </androidx.cardview.widget.CardView>
 
@@ -58,7 +82,15 @@
         android:layout_marginLeft="8dp"
         android:layout_marginTop="16dp"
         android:layout_marginRight="8dp"
+        app:cardCornerRadius="30dp"
         >
+
+        <ImageView
+            android:id="@+id/imgchoke"
+            android:layout_width="wrap_content"
+            android:layout_height="175dp"
+            android:background="@drawable/choke"
+            />
 
     </androidx.cardview.widget.CardView>
 
